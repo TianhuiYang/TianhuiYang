@@ -1,4 +1,13 @@
-### Hi there 👋
+### Nice to meet you, I'm Tianhui! 👋
+*(pronounced tian-hway)*
+
+I'm looking for a Fall 2021 internship. Feel free to [reach out](mailto:t225yang@uwaterloo.ca) to discuss open opportunities!
+
+Some fun facts about me:
+- currently building a mortgage application tracker and advisor portal at RBC
+- working on a battlesnake algorithm
+- taking a course on graph theory and enumeration at the University of Waterloo
+- learning to be a better plant mom - ask me about my plants! 🌱
 
 <!--
 **TianhuiYang/TianhuiYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
