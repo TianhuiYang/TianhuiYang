@@ -5,7 +5,7 @@ I'm currently looking for a Fall 2021 internship. Feel free to [reach out](mailt
 
 Some fun facts about me:
 - currently building a mortgage application tracker and advisor portal at RBC
-- working on a battlesnake algorithm
+- working on a [battlesnake](https://play.battlesnake.com/) algorithm
 - taking a course on graph theory and enumeration at the University of Waterloo
 - learning to be a better plant mom - ask me about my plants! 🌱
 
