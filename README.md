@@ -4,9 +4,9 @@
 I'm currently looking for a Fall 2021 internship. Feel free to [reach out](mailto:t225yang@uwaterloo.ca) to discuss open opportunities!
 
 Some fun facts about me:
-- currently building a mortgage application tracker and advisor portal at RBC
+- recently built a mortgage application tracker at RBC
 - working on a [battlesnake](https://play.battlesnake.com/) algorithm
-- taking a course on graph theory and enumeration at the University of Waterloo
+- taking courses on Data Structures, Computer Organization & Design, Foundations of Sequential Programs (+ a few more) at the University of Waterloo
 - learning to be a better plant mom - ask me about my plants! 🌱
 
 <!--
