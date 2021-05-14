@@ -1,12 +1,13 @@
 ### Nice to meet you, I'm Tianhui! *(pronounced tian-hway)* 👋
 
 
-I'm currently looking for a Fall 2021 internship. Feel free to [reach out](mailto:t225yang@uwaterloo.ca) to discuss open opportunities!
+I'm currently looking for a Fall 2021 internship. Feel free to [reach out](mailto:tianhui.yang@uwaterloo.ca) to discuss open opportunities!
 
 Some fun facts about me:
 - recently built a mortgage application tracker at RBC
 - working on a [battlesnake](https://play.battlesnake.com/) algorithm
-- taking courses on Data Structures, Computer Organization & Design, Foundations of Sequential Programs (+ a few more) at the University of Waterloo
+- taking courses on Data Structures, Computer Organization & Design, Sequential Programs (+ a few more) at UWaterloo
+- pronouns: she/her
 - learning to be a better plant mom - ask me about my plants! 🌱
 
 <!--
