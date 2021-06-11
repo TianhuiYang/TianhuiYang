@@ -1,8 +1,6 @@
 ### Nice to meet you, I'm Tianhui! *(pronounced tian-hway)* 👋
 
 
-I'm currently looking for a Fall 2021 internship. Feel free to [reach out](mailto:tianhui.yang@uwaterloo.ca) to discuss open opportunities!
-
 Some fun facts about me:
 - recently built a mortgage application tracker at RBC
 - working on a [battlesnake](https://play.battlesnake.com/) algorithm
