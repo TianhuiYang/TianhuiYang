@@ -3,7 +3,6 @@
 
 Some fun facts about me:
 - recently built a mortgage application tracker at RBC
-- working on a [battlesnake](https://play.battlesnake.com/) algorithm
 - taking courses on Data Structures, Computer Organization & Design, Sequential Programs (+ a few more) at UWaterloo
 - pronouns: she/her
 - learning to be a better plant mom - ask me about my plants! 🌱
