@@ -3,7 +3,7 @@
 
 Some fun facts about me:
 - currently improving tax software @Intuit
-- taking courses on Data Structures, Computer Organization & Design, Sequential Programs (+ a few more) at UWaterloo
+- taking a course on Database Management at UWaterloo
 - pronouns: she/her
 - learning to be a better plant mom - ask me about my plants! 🌱
 
