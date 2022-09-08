@@ -2,8 +2,8 @@
 
 
 Some fun facts about me:
-- currently improving tax software @Intuit
-- taking courses on Algorithms, Operating Systems and User Interfaces @UWaterloo
+- making API management more accessible @AWS
+- taking courses on Networks, Numerical Computation and Privacy & Security @UWaterloo
 - pronouns: she/her
 - learning to be a better plant mom - ask me about my plants! 🌱
 
