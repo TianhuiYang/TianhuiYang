@@ -2,7 +2,7 @@
 
 
 Some fun facts about me:
-- making API management more accessible @AWS
+- creating a safer environment for our players @Roblox
 - taking courses on Networks, Numerical Computation and Privacy & Security @UWaterloo
 - pronouns: she/her
 - learning to be a better plant mom - ask me about my plants! 🌱
